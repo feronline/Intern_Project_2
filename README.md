@@ -17,7 +17,7 @@
 
 ## 🖼️ Example Outputs
 
-| Original Image with Overlay | Predicted Mask |
+| Predicted Mask | Original Image with Overlay |
 |-----------------------------|----------------|
 | ![Overlay](output/freespace_overlay.jpg) | ![Mask](output/show.png) |
 
