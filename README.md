@@ -51,11 +51,11 @@ SAT_Intern/
 ## 👨‍💻 Intern Summary
 This project was conducted over 20 days and covered:
 
--JSON annotation parsing
--Preprocessing and mask generation
--PyTorch model building & training
--Augmentation and hyperparameter tuning
--Final evaluation and testing
+- JSON annotation parsing
+- Preprocessing and mask generation
+- PyTorch model building & training
+- Augmentation and hyperparameter tuning
+- Final evaluation and testing
 
 
 
